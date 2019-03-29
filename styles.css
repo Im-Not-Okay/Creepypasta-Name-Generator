@@ -1,0 +1,61 @@
+body {
+    background-image:url("http://cdn.playbuzz.com/cdn/182b2ec2-97c7-449d-89c9-92433badb815/6f9153ac-4bce-4457-8000-6e4bd4d730ed.png");
+    background-size:60%;
+    }
+    
+p {
+    color:white;    
+    background-color:black;
+    font-size:50px;
+    border: 1px solid black;
+    outline-style: double;
+    outline-color: red;
+    }
+
+h1 {
+    display:flex;
+    justify-content:center;
+    color:red;
+    font-size:50px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    
+    }
+    
+#banner{
+   
+    text-align:center;
+    border-style:ridge outset;
+    background-image:url("https://data.whicdn.com/images/202408878/original.gif");
+    background-size:500px;
+    
+    
+}
+
+.sleep{
+    display:flex;
+    justify-content:center;
+     height:300px;
+     width:1650px;
+    
+    }
+
+.i {
+    display:flex;
+    justify-content:center;
+    
+    }
+.hi{
+    display:flex;
+    justify-content:center;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    }
+    
+#button1 {
+    font-size:20px;
+    font-family: 'Fredericka the Great', cursive;
+    }
+    
+.button2 {
+    font-size:20px;
+    font-family: 'Fredericka the Great', cursive;
+    }
